@@ -14,4 +14,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This project is using Next-js | Tailwind-css and tmdb.org api. 
+## This project is using Next-js | Tailwind-css and tmdb.org api. 
